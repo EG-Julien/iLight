@@ -1,0 +1,31 @@
+Partlist
+
+Exported from iLight.sch at 27/05/2018 18:20
+
+EAGLE Version 8.7.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value           Device          Package           Library                     Sheet
+
+ALIM                     PINHD-1X2       1X02              pinhead                     1
+B1       TS-1109         DIP-BUTTON-4P   SW4-6.0X6.0X5.0MM Seeed-OPL-Button            1
+B2       TS-1109         DIP-BUTTON-4P   SW4-6.0X6.0X5.0MM Seeed-OPL-Button            1
+C1       10µF            C-EUC1206       C1206             resistor                    1
+C2       10µF            C-EUC1206       C1206             resistor                    1
+C3       10µF            C-EUC1206       C1206             resistor                    1
+C9       100nF           C-EUC1206       C1206             resistor                    1
+D1                       LED-FKIT-1206   FKIT-LED-1206     SparkFun-LED                1
+IC1      MC33269D        MC33269D        DPACK             linear                      1
+LED                      MA03-1          MA03-1            con-lstb                    1
+MIC                      MA03-1          MA03-1            con-lstb                    1
+NRF                      MA04-2          MA04-2            con-lstb                    1
+PROG                     MA04-1          MA04-1            con-lstb                    1
+Q1       CSTCR6M00G53Z   CSTCR6M00G53Z   CSTCR6M           murata-filter               1
+Q2       IRLML6344       IRLML6344       SOT-23            mosfet                      1
+R1       1k              R-EU_R1206      R1206             resistor                    1
+R2       1k              R-EU_R1206      R1206             resistor                    1
+R3       1k              R-EU_R1206      R1206             resistor                    1
+R4       10k             R-EU_R1206      R1206             resistor                    1
+R5       10k             R-EU_R1206      R1206             resistor                    1
+U1       ATMEGA328P_TQFP ATMEGA328P_TQFP TQFP32-08         SparkFun-IC-Microcontroller 1
